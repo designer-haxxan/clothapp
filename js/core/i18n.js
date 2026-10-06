@@ -28,11 +28,11 @@ export const translations = {
 };
 
 export function getLang() {
-  return localStorage.getItem('disterp.lang') || 'en';
+  return localStorage.getItem('clothapp.lang') || 'en';
 }
 
 export function setLang(lang) {
-  localStorage.setItem('disterp.lang', lang);
+  localStorage.setItem('clothapp.lang', lang);
   document.documentElement.lang = lang;
   document.documentElement.dir = lang === 'ur' ? 'rtl' : 'ltr';
   window.location.reload();

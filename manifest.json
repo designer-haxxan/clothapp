@@ -1,7 +1,7 @@
 {
-  "name": "SaleAPP POS",
-  "short_name": "SaleAPP",
-  "description": "Offline-first point of sale with sales, purchases, stock, accounts and reports.",
+  "name": "Textile POS",
+  "short_name": "Textile POS",
+  "description": "Offline-first textile point of sale with sales, purchases, stock, and accounts.",
   "id": "./index.html",
   "start_url": "./index.html",
   "scope": "./",
