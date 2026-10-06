@@ -12,8 +12,8 @@
   --brand: #4f46e5;            /* indigo */
   --brand-2: #7c3aed;          /* violet */
   --brand-3: #06b6d4;          /* cyan accent */
-  --brand-grad: linear-gradient(135deg, #4f46e5 0%, #7c3aed 55%, #db2777 120%);
-  --brand-soft: rgba(79, 70, 229, .10);
+  --brand-grad: linear-gradient(135deg, #881337 0%, #be123c 55%, #f43f5e 120%);
+  --brand-soft: rgba(136, 19, 55, .10);
   --radius: 14px;
   --radius-sm: 10px;
   --shadow-sm: 0 1px 2px rgba(16, 24, 40, .05), 0 1px 3px rgba(16, 24, 40, .06);
@@ -22,14 +22,14 @@
   --ease: cubic-bezier(.2, .8, .2, 1);
   --app-bg: #f4f5fb;
   --surface: #ffffff;
-  --viz-bar: #4f46e5;          /* validated: light surface, single series */
-  --bs-primary: #4f46e5;
-  --bs-primary-rgb: 79, 70, 229;
-  --bs-primary-text-emphasis: #3730a3;
-  --bs-primary-bg-subtle: #eef0ff;
-  --bs-primary-border-subtle: #c7cbfb;
-  --bs-link-color: #4f46e5;
-  --bs-link-color-rgb: 79, 70, 229;
+  --viz-bar: #881337;
+  --bs-primary: #881337;
+  --bs-primary-rgb: 136, 19, 55;
+  --bs-primary-text-emphasis: #4c0519;
+  --bs-primary-bg-subtle: #ffe4e6;
+  --bs-primary-border-subtle: #fecdd3;
+  --bs-link-color: #9f1239;
+  --bs-link-color-rgb: 159, 18, 57;
   --bs-link-hover-color: #3730a3;
   --bs-link-hover-color-rgb: 55, 48, 163;
   --bs-font-sans-serif: 'Jameel Noori Nastaleeq', 'Inter Variable', system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', 'Noto Sans', Arial, sans-serif;

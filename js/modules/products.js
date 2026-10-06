@@ -8,7 +8,7 @@ import * as Posting from '../services/posting.js';
 import * as Scanner from '../scanner/scanner.js';
 
 const $ = window.jQuery;
-const UNITS = ['pcs', 'kg', 'g', 'ltr', 'ml', 'box', 'pack', 'dozen', 'm', 'ft', 'pair', 'set'];
+const UNITS = ['pcs', 'meter', 'yard', 'bag', 'suit', 'kg', 'g', 'ltr', 'ml', 'box', 'pack', 'dozen', 'm', 'ft', 'pair', 'set'];
 
 // Internal EAN-13 barcode in the "in-store" 20-29 prefix range.
 function generateBarcode() {
